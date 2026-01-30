@@ -14,7 +14,7 @@ You can Beautiful Soup with this command in your command prompt:
 pip install beautifulsoup4
 ```
 [See here for as tutorial, if you're having trouble with Beautiful Soup.](https://pytutorial.com/install-beautifulsoup-in-python-step-by-step/) <br>
-[!["beautiful soup image"](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg-blog.csdnimg.cn%2F20200317181214979.png%3Fx-oss-process%3Dimage%2Fwatermark%2Ctype_ZmFuZ3poZW5naGVpdGk%2Cshadow_10%2Ctext_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xhdGF0YXdh%2Csize_16%2Ccolor_FFFFFF%2Ct_70&f=1&nofb=1&ipt=a9ef0fbd083537e66a3fe9c280363b556cf007475a04079c4c3d383a2e6fffb7)]((https://pytutorial.com/install-beautifulsoup-in-python-step-by-step/)
+[!["beautiful soup image"](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg-blog.csdnimg.cn%2F20200317181214979.png%3Fx-oss-process%3Dimage%2Fwatermark%2Ctype_ZmFuZ3poZW5naGVpdGk%2Cshadow_10%2Ctext_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xhdGF0YXdh%2Csize_16%2Ccolor_FFFFFF%2Ct_70&f=1&nofb=1&ipt=a9ef0fbd083537e66a3fe9c280363b556cf007475a04079c4c3d383a2e6fffb7)](https://pytutorial.com/install-beautifulsoup-in-python-step-by-step/)
 
 
 ## Questions
